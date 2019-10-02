@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdchenk%2Ftwisted.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdchenk%2Ftwisted?ref=badge_shield)
+
 Twisted
 =======
 
@@ -102,3 +104,7 @@ Again, see the included `LICENSE <LICENSE>`_ file for specific legal details.
 
 .. |circleci| image:: https://circleci.com/gh/twisted/twisted.svg?style=svg
 .. _circleci: https://circleci.com/gh/twisted/twisted
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdchenk%2Ftwisted.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdchenk%2Ftwisted?ref=badge_large)
